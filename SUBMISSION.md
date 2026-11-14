@@ -3,7 +3,7 @@
 **Candidate:** ANBU M  
 **Exercise:** Monday 16 November 2026, Asia/Dubai. All times in the triage and customer drafts below are simulated. No fictional email was actually sent.  
 **Lab replay:** 14 November 2026 UTC on a local Docker stack. These timestamps are evidence collection times, not the exercise clock.  
-**Repository:** Add the URL of the candidate's own public GitHub repository after publishing.
+**Repository:** https://github.com/anbu-m07/complyance-pse-support-lab
 
 ## Triage and first responses
 
