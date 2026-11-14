@@ -1,0 +1,111 @@
+-- Query:
+SELECT s.name, i.id AS import_id, i.filename, i.status AS import_status, i.row_count, i.invoice_count, i.duration_ms FROM imports i JOIN sellers s ON s.id=i.seller_id ORDER BY i.created_at; SELECT s.name, v.invoice_number, v.id AS invoice_id, v.status, v.rejected_by, v.asp_message_id FROM invoices v JOIN sellers s ON s.id=v.seller_id ORDER BY s.name,v.invoice_number;
+
+-- Output:
+             name              |              import_id               |            filename            | import_status | row_count | invoice_count | duration_ms 
+-------------------------------+--------------------------------------+--------------------------------+---------------+-----------+---------------+-------------
+ Sahara Medical Supplies FZE   | 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a04 | sahara-medical-batch-1029.xlsx | Completed     |        24 |            12 |        7200
+ Palm Coast Electronics LLC    | 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a05 | palm-coast-oct-wk4.xlsx        | Completed     |        10 |             5 |        4050
+ Desert Rose Trading LLC       | 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a01 | desert-rose-oct-2026.xlsx      | Completed     |        12 |             6 |        4500
+ Oasis Builders Supply LLC     | 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a02 | oasis-builders-oct-2026.xlsx   | Completed     |        16 |             8 |        5400
+ Al Noor Fuel & Lubricants LLC | 0c6f3a52-1f0e-4f43-9d7a-6a1f1b2f0a03 | al-noor-fuel-oct-2026.xlsx     | Completed     |         8 |             4 |        3600
+ Desert Rose Trading LLC       | 6516c711-5647-4915-bc86-e387c34509e6 | desert-rose-nov-2026.xlsx      | Completed     |        12 |             5 |        2454
+ Ghaf Tree Café LLC            | 2bcc29e6-4fbd-4e5a-9d87-5db97739da65 | ghaf-cafe-nov-2026.xlsx        | Completed     |         8 |             4 |        1639
+ Al Noor Fuel & Lubricants LLC | c44b2ba7-c470-41a1-a444-7d3acfbb8fab | al-noor-fuel-nov-2026.xlsx     | Completed     |        13 |             6 |        2645
+ Sahara Medical Supplies FZE   | 4426b2ed-da49-4d42-b9c9-28db7db6ea03 | sahara-medical-batch-1116.xlsx | Completed     |        60 |            40 |       12230
+(9 rows)
+
+             name              | invoice_number |              invoice_id              |  status   | rejected_by |            asp_message_id            
+-------------------------------+----------------+--------------------------------------+-----------+-------------+--------------------------------------
+ Al Noor Fuel & Lubricants LLC | ANF-2610-001   | a684178c-3dff-4262-9fcd-77a32587373f | Accepted  |             | 563016b7-9d64-40c8-b23d-6fcbe810083e
+ Al Noor Fuel & Lubricants LLC | ANF-2610-002   | 797ae0a6-85bb-4824-8b12-75122a87531c | Accepted  |             | d27d646d-eef4-4bb2-a25a-83348fea0c66
+ Al Noor Fuel & Lubricants LLC | ANF-2610-003   | d5b6c980-2b91-489a-8c44-c4804dc04c51 | Accepted  |             | 2d86d8e4-081d-48bf-b7d1-86a7591620a3
+ Al Noor Fuel & Lubricants LLC | ANF-2610-004   | 31f0bfaf-8c5f-4ac7-bf8c-02f1ddfb4fcd | Accepted  |             | 591488b9-6ad3-4a66-9772-f68aa0ebfc63
+ Al Noor Fuel & Lubricants LLC | ANF-2611-0041  | a26d7d7a-09cc-4ecb-baf5-3352ab3bb215 | Accepted  |             | d1b47976-c617-4650-90f6-aba1b89549d3
+ Al Noor Fuel & Lubricants LLC | ANF-2611-0042  | f8fb5ce6-0aa8-41f2-9b90-00cf0ce29a50 | Rejected  | asp         | 
+ Al Noor Fuel & Lubricants LLC | ANF-2611-0043  | 918798dc-5e3b-41cc-abe3-ee97cf8a3b2c | Accepted  |             | cfc5bba3-7c51-430f-a333-4424a1fb9baf
+ Al Noor Fuel & Lubricants LLC | ANF-2611-0044  | d3f30570-3998-410f-b97f-92adcd31d3b4 | Rejected  | asp         | 
+ Al Noor Fuel & Lubricants LLC | ANF-2611-0045  | 139ff777-6f40-450e-b724-b8e84b81b8a1 | Accepted  |             | c4c12672-13f9-4351-b872-d5d0742b813b
+ Al Noor Fuel & Lubricants LLC | ANF-2611-0046  | 01ad0182-f2de-4135-8f15-70a8e716b600 | Rejected  | asp         | 
+ Desert Rose Trading LLC       | DRT-2610-001   | 8600038e-d024-4d0a-a6a2-7371c8fca2f8 | Accepted  |             | d83370ad-9ab9-41fe-a31b-997ab428abf2
+ Desert Rose Trading LLC       | DRT-2610-002   | b692aa00-82f5-449b-92ca-eb1b8b7885bb | Accepted  |             | af0c0552-2191-44d4-ae55-445cd33dfd01
+ Desert Rose Trading LLC       | DRT-2610-003   | 0d122913-4826-460d-bf8c-057e6cc78900 | Accepted  |             | bf1ebbd5-9548-4181-9ca4-a2f1c73748c9
+ Desert Rose Trading LLC       | DRT-2610-004   | 5561a7ea-c2ee-4725-9207-0f4a9cee2bf2 | Accepted  |             | e065a7e4-c396-488f-98a8-62f072ddf97f
+ Desert Rose Trading LLC       | DRT-2610-005   | c51145ed-6837-48d4-adc2-c1816388c30c | Accepted  |             | 511f9a65-10ce-4a80-b4e4-09c3b790b140
+ Desert Rose Trading LLC       | DRT-2610-006   | be1d4b95-7b65-45e7-9df1-07d3cdc531bd | Accepted  |             | 944a7eb4-c20c-453f-98b8-73e8893fd8c9
+ Desert Rose Trading LLC       | DRT-2611-001   | 169a4afb-a458-4b05-b842-25aec5fec75f | Accepted  |             | a4d52078-ef53-46ac-bb04-71a6c9acee05
+ Desert Rose Trading LLC       | DRT-2611-002   | ffcbaf35-54a0-4dd5-b981-c950a77968d3 | Accepted  |             | 67d20230-7e6f-405b-9311-23774c9c1812
+ Desert Rose Trading LLC       | DRT-2611-003   | 081b3b0d-46a0-4802-b753-19882345d966 | Accepted  |             | 181ac87c-9c7a-45d3-81cd-c2ef626a9cf0
+ Desert Rose Trading LLC       | DRT-2611-004   | 7289e0a0-dd18-488c-892e-7316b8869e95 | Accepted  |             | bae31f37-5b71-4b46-8778-4970fbe2871c
+ Desert Rose Trading LLC       | DRT-2611-005   | 8dd95292-54aa-4a38-914b-32001a981b8e | Accepted  |             | 617377e5-0fd1-4a33-9465-1afa90ab47d7
+ Ghaf Tree Café LLC            | GTC-118        | 66f7db34-5953-4ded-b627-6911dbe4ab3f | Rejected  | portal      | 
+ Ghaf Tree Café LLC            | GTC-119        | 8df094b1-8305-4a63-bec2-2de1bf0f0727 | Rejected  | portal      | 
+ Ghaf Tree Café LLC            | GTC-120        | ec19a4d1-0c4f-4343-9197-82046b16ac8c | Rejected  | portal      | 
+ Ghaf Tree Café LLC            | GTC-121        | e61236a7-0424-4902-9ba3-734649170d51 | Rejected  | portal      | 
+ Oasis Builders Supply LLC     | OBS-2610-001   | d8564217-e643-43b7-8b67-958bf5130fd3 | Accepted  |             | 6f8cc6c9-0b1f-48d9-b911-7bd2995656db
+ Oasis Builders Supply LLC     | OBS-2610-002   | f3030913-5cda-4c03-92e2-d67de8f9ee5c | Accepted  |             | 969132c7-6700-4fb1-b78d-7e19ff11905d
+ Oasis Builders Supply LLC     | OBS-2610-003   | a04e6bf1-ac7a-4b35-98b0-3b2776a9209f | Accepted  |             | 5d6ea7ea-8efa-47d6-b15e-bac47fd9449d
+ Oasis Builders Supply LLC     | OBS-2610-004   | 26a2c018-dc71-497f-a7fb-5529d6463cc4 | Accepted  |             | 4a2aa442-7fbb-4741-94c8-9e7cd93d4fca
+ Oasis Builders Supply LLC     | OBS-2610-005   | 886a1389-98f4-4b10-a216-208c33f89424 | Accepted  |             | a31e9b98-eaee-4a29-bde0-40fe7cc24ea7
+ Oasis Builders Supply LLC     | OBS-2610-006   | 2be84411-4af7-4221-9c37-414014f60675 | Accepted  |             | 1908b83b-e109-4dfa-b18f-5b78a3724078
+ Oasis Builders Supply LLC     | OBS-2610-007   | 138745d5-91e6-47ad-b0f7-86d634358ced | Accepted  |             | e0990050-3abe-4831-9301-cd65ae5d9891
+ Oasis Builders Supply LLC     | OBS-2610-008   | 5a2131b1-e085-4bf3-8c31-288c5b91b21d | Accepted  |             | 4da97be0-8be2-42c8-888f-7a04ddeae0dd
+ Palm Coast Electronics LLC    | PCE-2610-001   | 432f25c2-a0be-4ad1-8df0-ebdf7d24963b | Accepted  |             | 0315dc70-45a8-4004-bafc-87b01f1b3d8d
+ Palm Coast Electronics LLC    | PCE-2610-002   | d5f956da-bfaa-4fcf-844f-b89d1a55e76a | Accepted  |             | 982950d3-966c-4fd5-8a5c-1d16c96807e8
+ Palm Coast Electronics LLC    | PCE-2610-003   | 0349a260-9f77-4347-8b64-7e7f287e9bcf | Accepted  |             | df5326ac-88ac-44be-8ac4-d2886377b5a9
+ Palm Coast Electronics LLC    | PCE-2610-004   | 144fedc7-25b5-439e-ba2c-d19e945a80ab | Accepted  |             | d3dd3aab-a1f8-440b-95af-4272c8621e4a
+ Palm Coast Electronics LLC    | PCE-2610-005   | 76973659-7e3e-4e91-8203-67fd7fc8ac88 | Accepted  |             | 5c50962c-aae4-4331-89d1-2304b24fd175
+ Sahara Medical Supplies FZE   | SMS-1029-001   | 1d8fbcb5-62ac-4ef7-955b-a3c58c09bb5d | Accepted  |             | d8756065-3ec3-4ab7-b054-c2ffb3774c0c
+ Sahara Medical Supplies FZE   | SMS-1029-002   | 6dfc71b0-8f0b-409b-b62a-e28cf876a9b5 | Accepted  |             | b36fd554-7d16-4ec4-9543-abaceb75ae3f
+ Sahara Medical Supplies FZE   | SMS-1029-003   | e7174017-4a24-4c40-afee-64370a131c77 | Accepted  |             | a6906efb-df22-49ca-8216-fbe28706e83d
+ Sahara Medical Supplies FZE   | SMS-1029-004   | b110c35e-d02b-48a6-98cb-709df10e6316 | Accepted  |             | 2fac5b7e-76d9-4cb6-88a0-993ca5f95dd2
+ Sahara Medical Supplies FZE   | SMS-1029-005   | c077a311-69e9-4438-8d39-7343fad79793 | Accepted  |             | f4e014f6-2e42-46ac-a825-a72c2f9a7d28
+ Sahara Medical Supplies FZE   | SMS-1029-006   | af7c78b4-486f-4f28-b15b-662fd520ac40 | Accepted  |             | 19500082-6208-4eb3-a43e-ed54f15a7948
+ Sahara Medical Supplies FZE   | SMS-1029-007   | 09848175-23be-425f-93eb-42110a5fba1a | Accepted  |             | d219e39c-4f6f-45f0-81d7-1c5bc30b8eac
+ Sahara Medical Supplies FZE   | SMS-1029-008   | fd41bb69-9c41-424f-bfb6-659e62c54732 | Accepted  |             | 47ee1752-675c-4554-bd4d-475295287851
+ Sahara Medical Supplies FZE   | SMS-1029-009   | 234f945f-8050-47b3-b113-199d299350b2 | Accepted  |             | 326c2c6f-dc0f-406e-addb-cf2955e7507b
+ Sahara Medical Supplies FZE   | SMS-1029-010   | 5dbd018d-236e-4367-9f05-8a4a61db5103 | Accepted  |             | 3deaada7-427c-437b-9318-fe3da88464ef
+ Sahara Medical Supplies FZE   | SMS-1029-011   | dbdfd558-4194-4ce7-bd85-f9b6ea390b09 | Accepted  |             | 579ac9b3-67c9-4c50-9c67-565b990bf2de
+ Sahara Medical Supplies FZE   | SMS-1029-012   | 7195074a-0b80-4898-9a11-4edce1089d37 | Accepted  |             | fa5660f1-700f-4029-891d-92b91057a2b4
+ Sahara Medical Supplies FZE   | SMS-1116-001   | 999d5948-b5c2-4061-8916-e9877d4b4a13 | Accepted  |             | 1c240b55-ee7e-4e32-accd-8d49de8f82ab
+ Sahara Medical Supplies FZE   | SMS-1116-002   | f4b06545-9430-4099-af02-10f1d7811e08 | Accepted  |             | cbac8870-728d-4620-a231-b886faf111de
+ Sahara Medical Supplies FZE   | SMS-1116-003   | 030b416d-8e43-42f6-934f-17a55fb44009 | Accepted  |             | 0f5366eb-60d9-4e92-bc87-3ab391ac0821
+ Sahara Medical Supplies FZE   | SMS-1116-004   | d8349777-0007-4505-8803-efb2288148e4 | Accepted  |             | 6c3336d7-cd20-4af7-b585-af948e0bea5f
+ Sahara Medical Supplies FZE   | SMS-1116-005   | 54364030-a849-426e-bd68-cec3ea0bd2db | Accepted  |             | b16e4beb-13ed-4810-8c9b-eee1209b6f06
+ Sahara Medical Supplies FZE   | SMS-1116-006   | f60cba00-b975-427a-87f1-a188a047c5fc | Accepted  |             | 7bb50e2a-13c8-430f-88f3-198c4563101f
+ Sahara Medical Supplies FZE   | SMS-1116-007   | 1900d4be-f0c1-4d05-b527-75d871744301 | Accepted  |             | b20f99a6-535b-4a9b-91f4-4b0f77a67414
+ Sahara Medical Supplies FZE   | SMS-1116-008   | cd2b9fbe-a22d-4e83-bd44-9927974da40b | Accepted  |             | 14cd22de-29ea-4f1e-8bf7-76ab05e5a8c5
+ Sahara Medical Supplies FZE   | SMS-1116-009   | 3aaabd92-feba-480a-a24f-11af0acd41bb | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-010   | f913daea-af94-45c1-8631-abbe3574f1d4 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-011   | 569d99b1-e8be-48ee-b41a-1ad5ca7eb95e | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-012   | f6688b73-7ac9-4a03-91c7-e46d83019f8c | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-013   | e57a12df-7fa2-4657-911f-d9ff7632e428 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-014   | 87412e9f-3c08-45cd-9a85-94c0d7cb5f87 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-015   | bf7c11cb-ff47-4461-b1be-23d289cd79a2 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-016   | 444fe3ff-ab6c-48de-8aea-deff38feccd0 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-017   | 1ff817b4-a5ac-4411-a932-cf8df2a9ae7d | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-018   | d1ba7a6e-63e0-4ae6-a609-f727cf14dd01 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-019   | efddd1be-6990-4d8f-962d-dc3d484f1629 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-020   | cc69704a-b20d-4303-83b5-413090c30585 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-021   | cee62210-c80e-4030-8e62-b71d7c8a1901 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-022   | d5b2c7e8-8779-4b28-88c8-6c662d89ca55 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-023   | df7361f8-23d2-4196-9118-d4736732e556 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-024   | b010d652-e6d2-468e-b8d9-7be0d7e35f8a | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-025   | 025a2514-5d69-4519-bb57-931666659964 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-026   | 1ddb2cbb-3115-4ed3-8a05-6443d95f7268 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-027   | c5c34d9d-aea7-4164-9c42-0c43d25e6d9f | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-028   | 329ace0c-715d-411f-8cae-5d0c3ada51f9 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-029   | 16ee19d7-1ddd-4276-b18c-f5df409fcb70 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-030   | f5b2f1db-e657-4b41-b784-f2e00fc6571d | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-031   | ba7ce257-2814-4893-8a5c-5083b6aae6c6 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-032   | 9825e013-182b-4fff-a2c9-85f516993374 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-033   | 88a03824-4384-4104-83e0-4ec71b92c29d | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-034   | 3545ab45-8f7e-4546-8b5c-b209aca0279a | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-035   | 0b4e3e6c-2623-41a0-8afe-4e8e5621d818 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-036   | b97c70ee-10e4-4bef-b274-c57f5483db19 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-037   | 0145bc7b-cf09-4458-a2d5-ea8b5a7e74bc | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-038   | 5c1fdd60-7a81-4f42-a121-fa1fcb859d8a | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-039   | 1a8c3d8d-abfe-497d-bfbf-073d039f73b9 | Submitted |             | 
+ Sahara Medical Supplies FZE   | SMS-1116-040   | 65216691-bf49-435f-8580-c71706439114 | Submitted |             | 
+(90 rows)
+

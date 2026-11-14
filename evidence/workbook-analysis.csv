@@ -1,0 +1,59 @@
+workbook,invoice_number,buyer,line_count,issue_date,due_date,net_AED,vat_AED,generated_gross_AED,net_plus_vat_AED,BR_CO_15_difference_AED
+oasis-builders-nov-2026.xlsx,OBS-2611-001,Crescent Contracting LLC,75,2026-11-15,2026-12-15,447436.00,22371.80,469807.80,469807.80,0.00
+oasis-builders-nov-2026.xlsx,OBS-2611-002,Northstar Engineering Consultants LLC,75,2026-11-15,2026-12-15,482630.00,24131.50,506761.50,506761.50,0.00
+oasis-builders-nov-2026.xlsx,OBS-2611-003,Coral Reef Resorts LLC,75,2026-11-15,2026-12-15,365215.00,18260.75,383475.75,383475.75,0.00
+oasis-builders-nov-2026.xlsx,OBS-2611-004,Bluewater Facilities Management LLC,75,2026-11-15,2026-12-15,443934.00,22196.70,466130.70,466130.70,0.00
+oasis-builders-nov-2026.xlsx,OBS-2611-005,Crescent Contracting LLC,75,2026-11-15,2026-12-15,558252.00,27912.60,586164.60,586164.60,0.00
+oasis-builders-nov-2026.xlsx,OBS-2611-006,Gulf Horizon Transport LLC,75,2026-11-15,2026-12-15,407542.00,20377.10,427919.10,427919.10,0.00
+oasis-builders-nov-2026.xlsx,OBS-2611-007,Northstar Engineering Consultants LLC,75,2026-11-15,2026-12-15,339651.00,16982.55,356633.55,356633.55,0.00
+oasis-builders-nov-2026.xlsx,OBS-2611-008,Coral Reef Resorts LLC,75,2026-11-15,2026-12-15,586421.00,29321.05,615742.05,615742.05,0.00
+al-noor-fuel-nov-2026.xlsx,ANF-2611-0041,Gulf Horizon Transport LLC,1,2026-11-12,2026-12-12,13749.75,687.49,14437.24,14437.24,0.00
+al-noor-fuel-nov-2026.xlsx,ANF-2611-0042,Zayed Port Logistics LLC,3,2026-11-12,2026-12-12,14307.08,715.35,15022.42,15022.43,-0.01
+al-noor-fuel-nov-2026.xlsx,ANF-2611-0043,Crescent Contracting LLC,2,2026-11-13,2026-12-13,18684.00,934.20,19618.20,19618.20,0.00
+al-noor-fuel-nov-2026.xlsx,ANF-2611-0044,Gulf Horizon Transport LLC,4,2026-11-13,2026-12-13,11254.84,562.75,11817.57,11817.59,-0.02
+al-noor-fuel-nov-2026.xlsx,ANF-2611-0045,Bluewater Facilities Management LLC,1,2026-11-14,2026-12-14,11283.30,564.17,11847.47,11847.47,0.00
+al-noor-fuel-nov-2026.xlsx,ANF-2611-0046,Zayed Port Logistics LLC,2,2026-11-14,2026-12-14,5343.80,267.20,5610.99,5611.00,-0.01
+sahara-medical-batch-1116.xlsx,SMS-1116-001,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,450.00,22.50,472.50,472.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-002,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,2300.00,115.00,2415.00,2415.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-003,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,600.00,30.00,630.00,630.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-004,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,1550.00,77.50,1627.50,1627.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-005,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,4200.00,210.00,4410.00,4410.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-006,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,1070.00,53.50,1123.50,1123.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-007,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,1800.00,90.00,1890.00,1890.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-008,Coral Reef Resorts LLC,2,2026-11-16,2026-12-16,3400.00,170.00,3570.00,3570.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-009,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,450.00,22.50,472.50,472.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-010,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,970.00,48.50,1018.50,1018.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-011,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,3500.00,175.00,3675.00,3675.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-012,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,1260.00,63.00,1323.00,1323.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-013,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,1575.00,78.75,1653.75,1653.75,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-014,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,3800.00,190.00,3990.00,3990.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-015,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,300.00,15.00,315.00,315.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-016,Coral Reef Resorts LLC,2,2026-11-16,2026-12-16,1290.00,64.50,1354.50,1354.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-017,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,2800.00,140.00,2940.00,2940.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-018,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,850.00,42.50,892.50,892.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-019,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,1350.00,67.50,1417.50,1417.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-020,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,4900.00,245.00,5145.00,5145.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-021,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,1200.00,60.00,1260.00,1260.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-022,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,710.00,35.50,745.50,745.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-023,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,2100.00,105.00,2205.00,2205.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-024,Coral Reef Resorts LLC,2,2026-11-16,2026-12-16,1040.00,52.00,1092.00,1092.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-025,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,1125.00,56.25,1181.25,1181.25,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-026,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,3200.00,160.00,3360.00,3360.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-027,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,1050.00,52.50,1102.50,1102.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-028,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,1940.00,97.00,2037.00,2037.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-029,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,1400.00,70.00,1470.00,1470.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-030,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,630.00,31.50,661.50,661.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-031,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,900.00,45.00,945.00,945.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-032,Coral Reef Resorts LLC,2,2026-11-16,2026-12-16,4300.00,215.00,4515.00,4515.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-033,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,900.00,45.00,945.00,945.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-034,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,1360.00,68.00,1428.00,1428.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-035,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,5600.00,280.00,5880.00,5880.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-036,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,820.00,41.00,861.00,861.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-037,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,675.00,33.75,708.75,708.75,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-038,Emirates Palm Hospital LLC,2,2026-11-16,2026-12-16,2600.00,130.00,2730.00,2730.00,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-039,Emirates Palm Hospital LLC,1,2026-11-16,2026-12-16,750.00,37.50,787.50,787.50,0.00
+sahara-medical-batch-1116.xlsx,SMS-1116-040,Coral Reef Resorts LLC,2,2026-11-16,2026-12-16,1680.00,84.00,1764.00,1764.00,0.00
+ghaf-cafe-nov-2026.xlsx,GTC-118,Saffron Events LLC,2,13/11/2026,13/12/2026,2040.00,102.00,2142.00,2142.00,0.00
+ghaf-cafe-nov-2026.xlsx,GTC-119,Northstar Engineering Consultants LLC,2,13/11/2026,13/12/2026,980.00,49.00,1029.00,1029.00,0.00
+ghaf-cafe-nov-2026.xlsx,GTC-120,Coral Reef Resorts LLC,3,14/11/2026,14/12/2026,1110.00,55.50,1165.50,1165.50,0.00
+ghaf-cafe-nov-2026.xlsx,GTC-121,Saffron Events LLC,1,15/11/2026,15/12/2026,2100.00,105.00,2205.00,2205.00,0.00

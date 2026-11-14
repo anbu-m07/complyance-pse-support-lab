@@ -1,0 +1,88 @@
+{
+  "id": "6516c711-5647-4915-bc86-e387c34509e6",
+  "sellerId": 1,
+  "sellerName": "Desert Rose Trading LLC",
+  "filename": "desert-rose-nov-2026.xlsx",
+  "status": "Completed",
+  "error": "",
+  "rowCount": 12,
+  "invoiceCount": 5,
+  "durationMs": 2454,
+  "createdAt": "2026-11-14T07:19:59.901001Z",
+  "completedAt": "2026-11-14T07:20:02.355032Z",
+  "statusCounts": {
+    "Accepted": 5,
+    "Failed": 0,
+    "Parsed": 0,
+    "Rejected": 0,
+    "Submitted": 0,
+    "Validated": 0
+  },
+  "invoices": [
+    {
+      "id": "169a4afb-a458-4b05-b842-25aec5fec75f",
+      "invoiceNumber": "DRT-2611-001",
+      "buyerName": "Al Waha Hypermarkets LLC",
+      "issueDate": "2026-11-10",
+      "totalInclVat": 6720,
+      "currency": "AED",
+      "status": "Accepted",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "a4d52078-ef53-46ac-bb04-71a6c9acee05",
+      "updatedAt": "2026-11-14T07:20:02.374009Z"
+    },
+    {
+      "id": "ffcbaf35-54a0-4dd5-b981-c950a77968d3",
+      "invoiceNumber": "DRT-2611-002",
+      "buyerName": "Bluewater Facilities Management LLC",
+      "issueDate": "2026-11-10",
+      "totalInclVat": 2583,
+      "currency": "AED",
+      "status": "Accepted",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "67d20230-7e6f-405b-9311-23774c9c1812",
+      "updatedAt": "2026-11-14T07:20:02.373233Z"
+    },
+    {
+      "id": "081b3b0d-46a0-4802-b753-19882345d966",
+      "invoiceNumber": "DRT-2611-003",
+      "buyerName": "Emirates Palm Hospital LLC",
+      "issueDate": "2026-11-11",
+      "totalInclVat": 7497,
+      "currency": "AED",
+      "status": "Accepted",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "181ac87c-9c7a-45d3-81cd-c2ef626a9cf0",
+      "updatedAt": "2026-11-14T07:20:02.373233Z"
+    },
+    {
+      "id": "7289e0a0-dd18-488c-892e-7316b8869e95",
+      "invoiceNumber": "DRT-2611-004",
+      "buyerName": "Northstar Engineering Consultants LLC",
+      "issueDate": "2026-11-12",
+      "totalInclVat": 2266.95,
+      "currency": "AED",
+      "status": "Accepted",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "bae31f37-5b71-4b46-8778-4970fbe2871c",
+      "updatedAt": "2026-11-14T07:20:02.372945Z"
+    },
+    {
+      "id": "8dd95292-54aa-4a38-914b-32001a981b8e",
+      "invoiceNumber": "DRT-2611-005",
+      "buyerName": "Al Waha Hypermarkets LLC",
+      "issueDate": "2026-11-13",
+      "totalInclVat": 3351.6,
+      "currency": "AED",
+      "status": "Accepted",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "617377e5-0fd1-4a33-9465-1afa90ab47d7",
+      "updatedAt": "2026-11-14T07:20:02.37848Z"
+    }
+  ]
+}

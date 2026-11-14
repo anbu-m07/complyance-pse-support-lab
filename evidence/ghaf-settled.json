@@ -1,0 +1,75 @@
+{
+  "id": "2bcc29e6-4fbd-4e5a-9d87-5db97739da65",
+  "sellerId": 6,
+  "sellerName": "Ghaf Tree Café LLC",
+  "filename": "ghaf-cafe-nov-2026.xlsx",
+  "status": "Completed",
+  "error": "",
+  "rowCount": 8,
+  "invoiceCount": 4,
+  "durationMs": 1639,
+  "createdAt": "2026-11-14T07:20:46.833593Z",
+  "completedAt": "2026-11-14T07:20:48.472922Z",
+  "statusCounts": {
+    "Accepted": 0,
+    "Failed": 0,
+    "Parsed": 0,
+    "Rejected": 4,
+    "Submitted": 0,
+    "Validated": 0
+  },
+  "invoices": [
+    {
+      "id": "66f7db34-5953-4ded-b627-6911dbe4ab3f",
+      "invoiceNumber": "GTC-118",
+      "buyerName": "Saffron Events LLC",
+      "issueDate": "13/11/2026",
+      "totalInclVat": 2142,
+      "currency": "AED",
+      "status": "Rejected",
+      "rejectedBy": "portal",
+      "errorCount": 4,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:47.25029Z"
+    },
+    {
+      "id": "8df094b1-8305-4a63-bec2-2de1bf0f0727",
+      "invoiceNumber": "GTC-119",
+      "buyerName": "Northstar Engineering Consultants LLC",
+      "issueDate": "13/11/2026",
+      "totalInclVat": 1029,
+      "currency": "AED",
+      "status": "Rejected",
+      "rejectedBy": "portal",
+      "errorCount": 4,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:47.658983Z"
+    },
+    {
+      "id": "ec19a4d1-0c4f-4343-9197-82046b16ac8c",
+      "invoiceNumber": "GTC-120",
+      "buyerName": "Coral Reef Resorts LLC",
+      "issueDate": "14/11/2026",
+      "totalInclVat": 1165.5,
+      "currency": "AED",
+      "status": "Rejected",
+      "rejectedBy": "portal",
+      "errorCount": 6,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:48.266018Z"
+    },
+    {
+      "id": "e61236a7-0424-4902-9ba3-734649170d51",
+      "invoiceNumber": "GTC-121",
+      "buyerName": "Saffron Events LLC",
+      "issueDate": "15/11/2026",
+      "totalInclVat": 2205,
+      "currency": "AED",
+      "status": "Rejected",
+      "rejectedBy": "portal",
+      "errorCount": 2,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:48.470457Z"
+    }
+  ]
+}

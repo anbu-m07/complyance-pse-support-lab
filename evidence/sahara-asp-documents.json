@@ -1,0 +1,66 @@
+[
+  {
+    "messageId": "cbac8870-728d-4620-a231-b886faf111de",
+    "invoiceNumber": "SMS-1116-002",
+    "sender": "0235:1006453719",
+    "receiver": "0235:1001182736",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:21:03.411702861Z"
+  },
+  {
+    "messageId": "1c240b55-ee7e-4e32-accd-8d49de8f82ab",
+    "invoiceNumber": "SMS-1116-001",
+    "sender": "0235:1006453719",
+    "receiver": "0235:1001182736",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:21:03.412279235Z"
+  },
+  {
+    "messageId": "0f5366eb-60d9-4e92-bc87-3ab391ac0821",
+    "invoiceNumber": "SMS-1116-003",
+    "sender": "0235:1006453719",
+    "receiver": "0235:1001182736",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:21:03.412362884Z"
+  },
+  {
+    "messageId": "6c3336d7-cd20-4af7-b585-af948e0bea5f",
+    "invoiceNumber": "SMS-1116-004",
+    "sender": "0235:1006453719",
+    "receiver": "0235:1001182736",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:21:03.412676597Z"
+  },
+  {
+    "messageId": "b16e4beb-13ed-4810-8c9b-eee1209b6f06",
+    "invoiceNumber": "SMS-1116-005",
+    "sender": "0235:1006453719",
+    "receiver": "0235:1001182736",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:21:03.417046841Z"
+  },
+  {
+    "messageId": "7bb50e2a-13c8-430f-88f3-198c4563101f",
+    "invoiceNumber": "SMS-1116-006",
+    "sender": "0235:1006453719",
+    "receiver": "0235:1001182736",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:21:03.417786755Z"
+  },
+  {
+    "messageId": "b20f99a6-535b-4a9b-91f4-4b0f77a67414",
+    "invoiceNumber": "SMS-1116-007",
+    "sender": "0235:1006453719",
+    "receiver": "0235:1001182736",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:21:03.418567925Z"
+  },
+  {
+    "messageId": "14cd22de-29ea-4f1e-8bf7-76ab05e5a8c5",
+    "invoiceNumber": "SMS-1116-008",
+    "sender": "0235:1006453719",
+    "receiver": "0235:1001859403",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:21:03.418578981Z"
+  }
+]

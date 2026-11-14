@@ -1,0 +1,101 @@
+{
+  "id": "c44b2ba7-c470-41a1-a444-7d3acfbb8fab",
+  "sellerId": 4,
+  "sellerName": "Al Noor Fuel & Lubricants LLC",
+  "filename": "al-noor-fuel-nov-2026.xlsx",
+  "status": "Completed",
+  "error": "",
+  "rowCount": 13,
+  "invoiceCount": 6,
+  "durationMs": 2645,
+  "createdAt": "2026-11-14T07:20:48.501277Z",
+  "completedAt": "2026-11-14T07:20:51.146625Z",
+  "statusCounts": {
+    "Accepted": 0,
+    "Failed": 0,
+    "Parsed": 0,
+    "Rejected": 0,
+    "Submitted": 0,
+    "Validated": 6
+  },
+  "invoices": [
+    {
+      "id": "a26d7d7a-09cc-4ecb-baf5-3352ab3bb215",
+      "invoiceNumber": "ANF-2611-0041",
+      "buyerName": "Gulf Horizon Transport LLC",
+      "issueDate": "2026-11-12",
+      "totalInclVat": 14437.24,
+      "currency": "AED",
+      "status": "Validated",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:48.71245Z"
+    },
+    {
+      "id": "f8fb5ce6-0aa8-41f2-9b90-00cf0ce29a50",
+      "invoiceNumber": "ANF-2611-0042",
+      "buyerName": "Zayed Port Logistics LLC",
+      "issueDate": "2026-11-12",
+      "totalInclVat": 15022.42,
+      "currency": "AED",
+      "status": "Validated",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:49.318811Z"
+    },
+    {
+      "id": "918798dc-5e3b-41cc-abe3-ee97cf8a3b2c",
+      "invoiceNumber": "ANF-2611-0043",
+      "buyerName": "Crescent Contracting LLC",
+      "issueDate": "2026-11-13",
+      "totalInclVat": 19618.2,
+      "currency": "AED",
+      "status": "Validated",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:49.724283Z"
+    },
+    {
+      "id": "d3f30570-3998-410f-b97f-92adcd31d3b4",
+      "invoiceNumber": "ANF-2611-0044",
+      "buyerName": "Gulf Horizon Transport LLC",
+      "issueDate": "2026-11-13",
+      "totalInclVat": 11817.57,
+      "currency": "AED",
+      "status": "Validated",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:50.535982Z"
+    },
+    {
+      "id": "139ff777-6f40-450e-b724-b8e84b81b8a1",
+      "invoiceNumber": "ANF-2611-0045",
+      "buyerName": "Bluewater Facilities Management LLC",
+      "issueDate": "2026-11-14",
+      "totalInclVat": 11847.47,
+      "currency": "AED",
+      "status": "Validated",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:50.739585Z"
+    },
+    {
+      "id": "01ad0182-f2de-4135-8f15-70a8e716b600",
+      "invoiceNumber": "ANF-2611-0046",
+      "buyerName": "Zayed Port Logistics LLC",
+      "issueDate": "2026-11-14",
+      "totalInclVat": 5610.99,
+      "currency": "AED",
+      "status": "Validated",
+      "rejectedBy": "",
+      "errorCount": 0,
+      "aspMessageId": "",
+      "updatedAt": "2026-11-14T07:20:51.144495Z"
+    }
+  ]
+}

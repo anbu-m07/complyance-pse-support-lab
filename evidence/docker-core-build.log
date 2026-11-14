@@ -1,0 +1,1407 @@
+ Image postgres:16.15-alpine3.23 Pulling 
+ 7cd4fefe7cc3 Pulling fs layer 0B
+ 3c64ce6890ae Pulling fs layer 0B
+ 5dc999939acd Pulling fs layer 0B
+ 079dc5b16b25 Pulling fs layer 0B
+ 5032131b2571 Pulling fs layer 0B
+ 997953ba4d82 Pulling fs layer 0B
+ c66f5ea40456 Pulling fs layer 0B
+ 74c614fb2c68 Pulling fs layer 0B
+ af6c7acfcc14 Pulling fs layer 0B
+ 3389248b81cc Pulling fs layer 0B
+ 0307034abf95 Pulling fs layer 0B
+ af6c7acfcc14 Download complete 0B
+ 3c64ce6890ae Download complete 0B
+ 7cd4fefe7cc3 Download complete 0B
+ 997953ba4d82 Downloading 116B
+ 997953ba4d82 Download complete 0B
+ 74c614fb2c68 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ 5dc999939acd Download complete 0B
+ 74c614fb2c68 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 079dc5b16b25 Downloading 170B
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 079dc5b16b25 Download complete 0B
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 1.049MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 2.097MB
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 2.097MB
+ c66f5ea40456 Downloading 2.097MB
+ 74c614fb2c68 Downloading 1.049MB
+ 5032131b2571 Download complete 0B
+ 74c614fb2c68 Downloading 1.049MB
+ c66f5ea40456 Downloading 2.097MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 2.097MB
+ c66f5ea40456 Downloading 3.146MB
+ 74c614fb2c68 Downloading 2.097MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 3.146MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 3.146MB
+ 0307034abf95 Download complete 0B
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 3.146MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 3.146MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 3.146MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 4.194MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 4.194MB
+ c66f5ea40456 Downloading 4.194MB
+ 74c614fb2c68 Downloading 2.097MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 4.194MB
+ c66f5ea40456 Downloading 4.194MB
+ 3389248b81cc Download complete 0B
+ 74c614fb2c68 Downloading 2.097MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 4.194MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 5.243MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 5.243MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 5.243MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 5.243MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 5.243MB
+ 3cf43f77dfc7 Download complete 0B
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 5.243MB
+ c66f5ea40456 Downloading 6.291MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 6.291MB
+ 74c614fb2c68 Downloading 2.097MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 6.291MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 6.291MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 6.291MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 6.291MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 7.34MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 8.389MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 9.437MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 9.437MB
+ 74c614fb2c68 Downloading 2.097MB
+ c66f5ea40456 Downloading 9.437MB
+ c66f5ea40456 Downloading 9.437MB
+ a6280f3ac8a1 Downloading 597.5kB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 9.437MB
+ a6280f3ac8a1 Download complete 0B
+ 74c614fb2c68 Downloading 3.146MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 9.437MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 9.437MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 10.49MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 10.49MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 10.49MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 10.49MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 10.49MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 10.49MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 10.49MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 11.53MB
+ c66f5ea40456 Downloading 11.53MB
+ 74c614fb2c68 Downloading 3.146MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 11.53MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 11.53MB
+ c66f5ea40456 Downloading 11.53MB
+ 74c614fb2c68 Downloading 3.146MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 12.58MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 12.58MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 12.58MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 12.58MB
+ 74c614fb2c68 Downloading 3.146MB
+ c66f5ea40456 Downloading 12.58MB
+ 74c614fb2c68 Download complete 0B
+ c66f5ea40456 Downloading 12.58MB
+ 74c614fb2c68 Extracting 1B
+ c66f5ea40456 Downloading 12.58MB
+ 74c614fb2c68 Extracting 1B
+ c66f5ea40456 Downloading 13.63MB
+ 5dc999939acd Pull complete 0B
+ 079dc5b16b25 Pull complete 0B
+ 3389248b81cc Pull complete 0B
+ 74c614fb2c68 Pull complete 0B
+ c66f5ea40456 Downloading 13.63MB
+ 997953ba4d82 Pull complete 0B
+ c66f5ea40456 Downloading 13.63MB
+ c66f5ea40456 Downloading 13.63MB
+ c66f5ea40456 Downloading 13.63MB
+ c66f5ea40456 Downloading 14.68MB
+ c66f5ea40456 Downloading 14.68MB
+ c66f5ea40456 Downloading 14.68MB
+ c66f5ea40456 Downloading 14.68MB
+ c66f5ea40456 Downloading 15.73MB
+ c66f5ea40456 Downloading 15.73MB
+ c66f5ea40456 Downloading 15.73MB
+ c66f5ea40456 Downloading 15.73MB
+ c66f5ea40456 Downloading 15.73MB
+ c66f5ea40456 Downloading 16.78MB
+ c66f5ea40456 Downloading 16.78MB
+ c66f5ea40456 Downloading 16.78MB
+ c66f5ea40456 Downloading 16.78MB
+ c66f5ea40456 Downloading 16.78MB
+ c66f5ea40456 Downloading 16.78MB
+ c66f5ea40456 Downloading 17.83MB
+ c66f5ea40456 Downloading 17.83MB
+ c66f5ea40456 Downloading 17.83MB
+ c66f5ea40456 Downloading 17.83MB
+ c66f5ea40456 Downloading 17.83MB
+ c66f5ea40456 Downloading 17.83MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 18.87MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 19.92MB
+ c66f5ea40456 Downloading 20.97MB
+ c66f5ea40456 Downloading 20.97MB
+ c66f5ea40456 Downloading 20.97MB
+ c66f5ea40456 Downloading 20.97MB
+ c66f5ea40456 Downloading 20.97MB
+ c66f5ea40456 Downloading 20.97MB
+ c66f5ea40456 Downloading 20.97MB
+ c66f5ea40456 Downloading 22.02MB
+ c66f5ea40456 Downloading 22.02MB
+ c66f5ea40456 Downloading 22.02MB
+ c66f5ea40456 Downloading 22.02MB
+ c66f5ea40456 Downloading 22.02MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 23.07MB
+ c66f5ea40456 Downloading 24.12MB
+ c66f5ea40456 Downloading 24.12MB
+ c66f5ea40456 Downloading 24.12MB
+ c66f5ea40456 Downloading 24.12MB
+ c66f5ea40456 Downloading 24.12MB
+ c66f5ea40456 Downloading 24.12MB
+ c66f5ea40456 Downloading 25.17MB
+ c66f5ea40456 Downloading 25.17MB
+ c66f5ea40456 Downloading 25.17MB
+ c66f5ea40456 Downloading 25.17MB
+ c66f5ea40456 Downloading 25.17MB
+ c66f5ea40456 Downloading 25.17MB
+ c66f5ea40456 Downloading 25.17MB
+ c66f5ea40456 Downloading 26.21MB
+ c66f5ea40456 Downloading 26.21MB
+ c66f5ea40456 Downloading 26.21MB
+ c66f5ea40456 Downloading 26.21MB
+ c66f5ea40456 Downloading 26.21MB
+ c66f5ea40456 Downloading 27.26MB
+ c66f5ea40456 Downloading 27.26MB
+ c66f5ea40456 Downloading 27.26MB
+ c66f5ea40456 Downloading 27.26MB
+ c66f5ea40456 Downloading 27.26MB
+ c66f5ea40456 Downloading 28.31MB
+ c66f5ea40456 Downloading 28.31MB
+ c66f5ea40456 Downloading 28.31MB
+ c66f5ea40456 Downloading 28.31MB
+ c66f5ea40456 Downloading 28.31MB
+ c66f5ea40456 Downloading 28.31MB
+ c66f5ea40456 Downloading 28.31MB
+ c66f5ea40456 Downloading 29.36MB
+ c66f5ea40456 Downloading 29.36MB
+ c66f5ea40456 Downloading 29.36MB
+ c66f5ea40456 Downloading 29.36MB
+ c66f5ea40456 Downloading 29.36MB
+ c66f5ea40456 Downloading 29.36MB
+ c66f5ea40456 Downloading 29.36MB
+ c66f5ea40456 Downloading 30.41MB
+ c66f5ea40456 Downloading 30.41MB
+ c66f5ea40456 Downloading 30.41MB
+ c66f5ea40456 Downloading 30.41MB
+ c66f5ea40456 Downloading 30.41MB
+ c66f5ea40456 Downloading 31.46MB
+ c66f5ea40456 Downloading 31.46MB
+ c66f5ea40456 Downloading 31.46MB
+ c66f5ea40456 Downloading 31.46MB
+ c66f5ea40456 Downloading 31.46MB
+ c66f5ea40456 Downloading 31.46MB
+ c66f5ea40456 Downloading 31.46MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 32.51MB
+ c66f5ea40456 Downloading 33.55MB
+ c66f5ea40456 Downloading 33.55MB
+ c66f5ea40456 Downloading 33.55MB
+ c66f5ea40456 Downloading 33.55MB
+ c66f5ea40456 Downloading 33.55MB
+ c66f5ea40456 Downloading 33.55MB
+ c66f5ea40456 Downloading 33.55MB
+ c66f5ea40456 Downloading 33.55MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 34.6MB
+ c66f5ea40456 Downloading 35.65MB
+ c66f5ea40456 Downloading 35.65MB
+ c66f5ea40456 Downloading 35.65MB
+ c66f5ea40456 Downloading 35.65MB
+ c66f5ea40456 Downloading 35.65MB
+ c66f5ea40456 Downloading 35.65MB
+ c66f5ea40456 Downloading 36.7MB
+ c66f5ea40456 Downloading 36.7MB
+ c66f5ea40456 Downloading 36.7MB
+ c66f5ea40456 Downloading 36.7MB
+ c66f5ea40456 Downloading 36.7MB
+ c66f5ea40456 Downloading 36.7MB
+ c66f5ea40456 Downloading 36.7MB
+ c66f5ea40456 Downloading 36.7MB
+ c66f5ea40456 Downloading 37.75MB
+ c66f5ea40456 Downloading 37.75MB
+ c66f5ea40456 Downloading 37.75MB
+ c66f5ea40456 Downloading 37.75MB
+ c66f5ea40456 Downloading 37.75MB
+ c66f5ea40456 Downloading 37.75MB
+ c66f5ea40456 Downloading 37.75MB
+ c66f5ea40456 Downloading 37.75MB
+ c66f5ea40456 Downloading 38.8MB
+ c66f5ea40456 Downloading 38.8MB
+ c66f5ea40456 Downloading 38.8MB
+ c66f5ea40456 Downloading 38.8MB
+ c66f5ea40456 Downloading 38.8MB
+ c66f5ea40456 Downloading 38.8MB
+ c66f5ea40456 Downloading 39.85MB
+ c66f5ea40456 Downloading 39.85MB
+ c66f5ea40456 Downloading 39.85MB
+ c66f5ea40456 Downloading 39.85MB
+ c66f5ea40456 Downloading 39.85MB
+ c66f5ea40456 Downloading 39.85MB
+ c66f5ea40456 Downloading 40.89MB
+ c66f5ea40456 Downloading 40.89MB
+ c66f5ea40456 Downloading 40.89MB
+ c66f5ea40456 Downloading 40.89MB
+ c66f5ea40456 Downloading 40.89MB
+ c66f5ea40456 Downloading 40.89MB
+ c66f5ea40456 Downloading 40.89MB
+ c66f5ea40456 Downloading 40.89MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 41.94MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 42.99MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 44.04MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 45.09MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 46.14MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 47.19MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 48.23MB
+ c66f5ea40456 Downloading 49.28MB
+ c66f5ea40456 Downloading 49.28MB
+ c66f5ea40456 Downloading 49.28MB
+ c66f5ea40456 Downloading 49.28MB
+ c66f5ea40456 Downloading 49.28MB
+ c66f5ea40456 Downloading 50.33MB
+ c66f5ea40456 Downloading 50.33MB
+ c66f5ea40456 Downloading 50.33MB
+ c66f5ea40456 Downloading 50.33MB
+ c66f5ea40456 Downloading 50.33MB
+ c66f5ea40456 Downloading 50.33MB
+ c66f5ea40456 Downloading 50.33MB
+ c66f5ea40456 Downloading 51.38MB
+ c66f5ea40456 Downloading 51.38MB
+ c66f5ea40456 Downloading 51.38MB
+ c66f5ea40456 Downloading 51.38MB
+ c66f5ea40456 Downloading 51.38MB
+ c66f5ea40456 Downloading 52.43MB
+ c66f5ea40456 Downloading 52.43MB
+ c66f5ea40456 Downloading 52.43MB
+ c66f5ea40456 Downloading 52.43MB
+ c66f5ea40456 Downloading 52.43MB
+ c66f5ea40456 Downloading 53.48MB
+ c66f5ea40456 Downloading 53.48MB
+ c66f5ea40456 Downloading 53.48MB
+ c66f5ea40456 Downloading 53.48MB
+ c66f5ea40456 Downloading 53.48MB
+ c66f5ea40456 Downloading 53.48MB
+ c66f5ea40456 Downloading 53.48MB
+ c66f5ea40456 Downloading 54.53MB
+ c66f5ea40456 Downloading 54.53MB
+ c66f5ea40456 Downloading 54.53MB
+ c66f5ea40456 Downloading 54.53MB
+ c66f5ea40456 Downloading 54.53MB
+ c66f5ea40456 Downloading 54.53MB
+ c66f5ea40456 Downloading 55.57MB
+ c66f5ea40456 Downloading 55.57MB
+ c66f5ea40456 Downloading 55.57MB
+ c66f5ea40456 Downloading 55.57MB
+ c66f5ea40456 Downloading 55.57MB
+ c66f5ea40456 Downloading 55.57MB
+ c66f5ea40456 Downloading 55.57MB
+ c66f5ea40456 Downloading 55.57MB
+ c66f5ea40456 Downloading 56.62MB
+ c66f5ea40456 Downloading 56.62MB
+ c66f5ea40456 Downloading 56.62MB
+ c66f5ea40456 Downloading 56.62MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 57.67MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 58.72MB
+ c66f5ea40456 Downloading 59.77MB
+ c66f5ea40456 Downloading 59.77MB
+ c66f5ea40456 Downloading 59.77MB
+ c66f5ea40456 Downloading 59.77MB
+ c66f5ea40456 Downloading 59.77MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 60.82MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 61.87MB
+ c66f5ea40456 Downloading 62.91MB
+ c66f5ea40456 Downloading 62.91MB
+ c66f5ea40456 Downloading 62.91MB
+ c66f5ea40456 Downloading 62.91MB
+ c66f5ea40456 Downloading 62.91MB
+ c66f5ea40456 Downloading 63.96MB
+ c66f5ea40456 Downloading 63.96MB
+ c66f5ea40456 Downloading 63.96MB
+ c66f5ea40456 Downloading 63.96MB
+ c66f5ea40456 Downloading 63.96MB
+ c66f5ea40456 Downloading 63.96MB
+ c66f5ea40456 Downloading 65.01MB
+ c66f5ea40456 Downloading 65.01MB
+ c66f5ea40456 Downloading 65.01MB
+ c66f5ea40456 Downloading 65.01MB
+ c66f5ea40456 Downloading 65.01MB
+ c66f5ea40456 Downloading 65.01MB
+ c66f5ea40456 Downloading 65.01MB
+ c66f5ea40456 Downloading 65.01MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 66.06MB
+ c66f5ea40456 Downloading 67.11MB
+ c66f5ea40456 Downloading 67.11MB
+ c66f5ea40456 Downloading 67.11MB
+ c66f5ea40456 Downloading 67.11MB
+ c66f5ea40456 Downloading 67.11MB
+ c66f5ea40456 Downloading 68.16MB
+ c66f5ea40456 Downloading 68.16MB
+ c66f5ea40456 Downloading 68.16MB
+ c66f5ea40456 Downloading 68.16MB
+ c66f5ea40456 Downloading 68.16MB
+ c66f5ea40456 Downloading 68.16MB
+ c66f5ea40456 Downloading 69.21MB
+ c66f5ea40456 Downloading 69.21MB
+ c66f5ea40456 Downloading 69.21MB
+ c66f5ea40456 Downloading 69.21MB
+ c66f5ea40456 Downloading 69.21MB
+ c66f5ea40456 Downloading 69.21MB
+ c66f5ea40456 Downloading 69.21MB
+ c66f5ea40456 Downloading 70.25MB
+ c66f5ea40456 Downloading 70.25MB
+ c66f5ea40456 Downloading 70.25MB
+ c66f5ea40456 Downloading 70.25MB
+ c66f5ea40456 Downloading 70.25MB
+ c66f5ea40456 Downloading 70.25MB
+ c66f5ea40456 Downloading 70.25MB
+ c66f5ea40456 Downloading 70.25MB
+ c66f5ea40456 Downloading 71.3MB
+ c66f5ea40456 Downloading 71.3MB
+ c66f5ea40456 Downloading 71.3MB
+ c66f5ea40456 Downloading 71.3MB
+ c66f5ea40456 Downloading 71.3MB
+ c66f5ea40456 Downloading 71.3MB
+ c66f5ea40456 Downloading 71.3MB
+ c66f5ea40456 Downloading 71.3MB
+ c66f5ea40456 Downloading 72.35MB
+ c66f5ea40456 Downloading 72.35MB
+ c66f5ea40456 Downloading 72.35MB
+ c66f5ea40456 Downloading 72.35MB
+ c66f5ea40456 Downloading 72.35MB
+ c66f5ea40456 Downloading 72.35MB
+ c66f5ea40456 Downloading 73.4MB
+ c66f5ea40456 Downloading 73.4MB
+ c66f5ea40456 Downloading 73.4MB
+ c66f5ea40456 Downloading 73.4MB
+ c66f5ea40456 Downloading 73.4MB
+ c66f5ea40456 Downloading 73.4MB
+ c66f5ea40456 Downloading 73.4MB
+ c66f5ea40456 Downloading 73.4MB
+ c66f5ea40456 Downloading 74.45MB
+ c66f5ea40456 Downloading 74.45MB
+ c66f5ea40456 Downloading 74.45MB
+ c66f5ea40456 Downloading 74.45MB
+ c66f5ea40456 Downloading 74.45MB
+ c66f5ea40456 Downloading 74.45MB
+ c66f5ea40456 Downloading 74.45MB
+ c66f5ea40456 Downloading 74.45MB
+ c66f5ea40456 Downloading 75.5MB
+ c66f5ea40456 Downloading 75.5MB
+ c66f5ea40456 Downloading 75.5MB
+ c66f5ea40456 Downloading 75.5MB
+ c66f5ea40456 Downloading 75.5MB
+ c66f5ea40456 Downloading 75.5MB
+ c66f5ea40456 Downloading 75.5MB
+ c66f5ea40456 Downloading 76.55MB
+ c66f5ea40456 Downloading 76.55MB
+ c66f5ea40456 Downloading 76.55MB
+ c66f5ea40456 Downloading 76.55MB
+ c66f5ea40456 Downloading 76.55MB
+ c66f5ea40456 Downloading 77.59MB
+ c66f5ea40456 Downloading 77.59MB
+ c66f5ea40456 Downloading 77.59MB
+ c66f5ea40456 Downloading 77.59MB
+ c66f5ea40456 Downloading 77.59MB
+ c66f5ea40456 Downloading 78.64MB
+ c66f5ea40456 Downloading 78.64MB
+ c66f5ea40456 Downloading 78.64MB
+ c66f5ea40456 Downloading 78.64MB
+ c66f5ea40456 Downloading 78.64MB
+ c66f5ea40456 Downloading 79.69MB
+ c66f5ea40456 Downloading 79.69MB
+ c66f5ea40456 Downloading 79.69MB
+ c66f5ea40456 Downloading 79.69MB
+ c66f5ea40456 Downloading 79.69MB
+ c66f5ea40456 Downloading 79.69MB
+ c66f5ea40456 Downloading 79.69MB
+ c66f5ea40456 Downloading 80.74MB
+ c66f5ea40456 Downloading 80.74MB
+ c66f5ea40456 Downloading 80.74MB
+ c66f5ea40456 Downloading 80.74MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 81.79MB
+ c66f5ea40456 Downloading 82.84MB
+ c66f5ea40456 Downloading 82.84MB
+ c66f5ea40456 Downloading 82.84MB
+ c66f5ea40456 Downloading 82.84MB
+ c66f5ea40456 Downloading 82.84MB
+ c66f5ea40456 Downloading 82.84MB
+ c66f5ea40456 Downloading 82.84MB
+ c66f5ea40456 Downloading 83.89MB
+ c66f5ea40456 Downloading 83.89MB
+ c66f5ea40456 Downloading 83.89MB
+ c66f5ea40456 Downloading 83.89MB
+ c66f5ea40456 Downloading 83.89MB
+ c66f5ea40456 Downloading 83.89MB
+ c66f5ea40456 Downloading 83.89MB
+ c66f5ea40456 Downloading 84.93MB
+ c66f5ea40456 Downloading 84.93MB
+ c66f5ea40456 Downloading 84.93MB
+ c66f5ea40456 Downloading 84.93MB
+ c66f5ea40456 Downloading 84.93MB
+ c66f5ea40456 Downloading 85.98MB
+ c66f5ea40456 Downloading 85.98MB
+ c66f5ea40456 Downloading 85.98MB
+ c66f5ea40456 Downloading 85.98MB
+ c66f5ea40456 Downloading 85.98MB
+ c66f5ea40456 Downloading 85.98MB
+ c66f5ea40456 Downloading 87.03MB
+ c66f5ea40456 Downloading 87.03MB
+ c66f5ea40456 Downloading 87.03MB
+ c66f5ea40456 Downloading 87.03MB
+ c66f5ea40456 Downloading 87.03MB
+ c66f5ea40456 Downloading 87.03MB
+ c66f5ea40456 Downloading 87.03MB
+ c66f5ea40456 Downloading 88.08MB
+ c66f5ea40456 Downloading 88.08MB
+ c66f5ea40456 Downloading 88.08MB
+ c66f5ea40456 Downloading 88.08MB
+ c66f5ea40456 Downloading 88.08MB
+ c66f5ea40456 Downloading 88.08MB
+ c66f5ea40456 Downloading 88.08MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 89.13MB
+ c66f5ea40456 Downloading 90.18MB
+ c66f5ea40456 Downloading 90.18MB
+ c66f5ea40456 Downloading 90.18MB
+ c66f5ea40456 Downloading 90.18MB
+ c66f5ea40456 Downloading 90.18MB
+ c66f5ea40456 Downloading 91.23MB
+ c66f5ea40456 Downloading 91.23MB
+ c66f5ea40456 Downloading 91.23MB
+ c66f5ea40456 Downloading 91.23MB
+ c66f5ea40456 Downloading 92.27MB
+ c66f5ea40456 Downloading 92.27MB
+ c66f5ea40456 Downloading 92.27MB
+ c66f5ea40456 Downloading 92.27MB
+ c66f5ea40456 Downloading 92.27MB
+ c66f5ea40456 Downloading 92.27MB
+ c66f5ea40456 Downloading 92.27MB
+ c66f5ea40456 Downloading 93.32MB
+ c66f5ea40456 Downloading 93.32MB
+ c66f5ea40456 Downloading 93.32MB
+ c66f5ea40456 Downloading 93.32MB
+ c66f5ea40456 Downloading 93.32MB
+ c66f5ea40456 Downloading 93.32MB
+ c66f5ea40456 Downloading 94.37MB
+ c66f5ea40456 Downloading 94.37MB
+ c66f5ea40456 Downloading 94.37MB
+ c66f5ea40456 Downloading 94.37MB
+ c66f5ea40456 Downloading 94.37MB
+ c66f5ea40456 Downloading 94.37MB
+ c66f5ea40456 Downloading 94.37MB
+ c66f5ea40456 Downloading 94.37MB
+ c66f5ea40456 Downloading 95.42MB
+ c66f5ea40456 Downloading 95.42MB
+ c66f5ea40456 Downloading 95.42MB
+ c66f5ea40456 Downloading 95.42MB
+ c66f5ea40456 Downloading 95.42MB
+ c66f5ea40456 Downloading 95.42MB
+ c66f5ea40456 Downloading 95.42MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 96.47MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 97.52MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 98.57MB
+ c66f5ea40456 Downloading 99.61MB
+ c66f5ea40456 Downloading 99.61MB
+ c66f5ea40456 Downloading 99.61MB
+ c66f5ea40456 Downloading 99.61MB
+ c66f5ea40456 Downloading 99.61MB
+ c66f5ea40456 Downloading 99.61MB
+ c66f5ea40456 Downloading 99.61MB
+ c66f5ea40456 Downloading 99.61MB
+ c66f5ea40456 Downloading 100.7MB
+ c66f5ea40456 Downloading 100.7MB
+ c66f5ea40456 Downloading 100.7MB
+ c66f5ea40456 Downloading 100.7MB
+ c66f5ea40456 Downloading 100.7MB
+ c66f5ea40456 Downloading 100.7MB
+ c66f5ea40456 Downloading 100.7MB
+ c66f5ea40456 Downloading 101.7MB
+ c66f5ea40456 Downloading 101.7MB
+ c66f5ea40456 Downloading 101.7MB
+ c66f5ea40456 Downloading 101.7MB
+ c66f5ea40456 Downloading 101.7MB
+ c66f5ea40456 Downloading 102.8MB
+ c66f5ea40456 Downloading 102.8MB
+ c66f5ea40456 Downloading 102.8MB
+ c66f5ea40456 Downloading 102.8MB
+ c66f5ea40456 Downloading 102.8MB
+ c66f5ea40456 Downloading 102.8MB
+ c66f5ea40456 Downloading 102.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 103.8MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 104.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 105.9MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 107MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 108MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 109.1MB
+ c66f5ea40456 Downloading 110.1MB
+ c66f5ea40456 Downloading 110.1MB
+ c66f5ea40456 Downloading 110.1MB
+ c66f5ea40456 Downloading 110.1MB
+ c66f5ea40456 Downloading 110.1MB
+ c66f5ea40456 Downloading 110.8MB
+ c66f5ea40456 Downloading 110.8MB
+ c66f5ea40456 Downloading 110.8MB
+ c66f5ea40456 Downloading 110.8MB
+ c66f5ea40456 Download complete 0B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 1B
+ c66f5ea40456 Extracting 2B
+ c66f5ea40456 Extracting 2B
+ c66f5ea40456 Extracting 2B
+ c66f5ea40456 Extracting 2B
+ c66f5ea40456 Extracting 2B
+ c66f5ea40456 Extracting 2B
+ c66f5ea40456 Extracting 2B
+ c66f5ea40456 Extracting 2B
+ c66f5ea40456 Extracting 2B
+ 3c64ce6890ae Pull complete 0B
+ c66f5ea40456 Pull complete 0B
+ af6c7acfcc14 Pull complete 0B
+ 5032131b2571 Pull complete 0B
+ 0307034abf95 Pull complete 0B
+ 7cd4fefe7cc3 Pull complete 0B
+ Image postgres:16.15-alpine3.23 Pulled 
+ Image invoicely-lite-web Building 
+ Image invoicely-lite-api Building 
+ Image invoicely-lite-asp-mock Building 
+#1 [internal] load local bake definitions
+#1 reading from stdin 1.74kB done
+#1 DONE 0.0s
+
+#2 [asp-mock internal] load build definition from Dockerfile
+#2 ...
+
+#3 [web internal] load build definition from Dockerfile
+#3 ...
+
+#4 [api internal] load build definition from Dockerfile
+#4 ...
+
+#2 [asp-mock internal] load build definition from Dockerfile
+#2 transferring dockerfile:
+#2 ...
+
+#3 [web internal] load build definition from Dockerfile
+#3 transferring dockerfile: 645B 0.0s done
+#3 DONE 11.2s
+
+#2 [asp-mock internal] load build definition from Dockerfile
+#2 transferring dockerfile: 422B 0.1s done
+#2 DONE 11.2s
+
+#4 [api internal] load build definition from Dockerfile
+#4 transferring dockerfile: 402B 0.0s done
+#4 DONE 11.2s
+
+#5 [api internal] load metadata for docker.io/library/golang:1.27.4-alpine3.24
+#5 DONE 3.0s
+
+#6 [api internal] load metadata for docker.io/library/alpine:3.24.4
+#6 DONE 2.9s
+
+#7 [web internal] load metadata for docker.io/library/node:22.23.5-alpine3.24
+#7 DONE 3.0s
+
+#8 [web internal] load .dockerignore
+#8 transferring context:
+#8 transferring context: 109B done
+#8 DONE 0.2s
+
+#9 [api internal] load .dockerignore
+#9 transferring context: 2B done
+#9 DONE 0.2s
+
+#10 [asp-mock internal] load .dockerignore
+#10 transferring context: 2B done
+#10 DONE 0.2s
+
+#11 [web internal] load build context
+#11 DONE 0.0s
+
+#12 [api internal] load build context
+#12 DONE 0.0s
+
+#13 [asp-mock internal] load build context
+#13 DONE 0.0s
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 resolve docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a 0.1s done
+#14 DONE 0.1s
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 resolve docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 resolve docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf 0.1s done
+#15 ...
+
+#11 [web internal] load build context
+#11 transferring context: 66.85kB 0.0s done
+#11 DONE 0.2s
+
+#12 [api internal] load build context
+#12 transferring context: 63.27kB 0.0s done
+#12 DONE 0.3s
+
+#13 [asp-mock internal] load build context
+#13 transferring context: 15.90kB 0.0s done
+#13 DONE 0.4s
+
+#16 [api stage-1 1/3] FROM docker.io/library/alpine:3.24.4@sha256:f59abe656b692d901e184be3445e084786602108599d2a51d229c0f5a48c71bf
+#16 resolve docker.io/library/alpine:3.24.4@sha256:f59abe656b692d901e184be3445e084786602108599d2a51d229c0f5a48c71bf 0.1s done
+#16 sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17 0B / 3.85MB 0.2s
+#16 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 DONE 0.7s
+
+#16 [api stage-1 1/3] FROM docker.io/library/alpine:3.24.4@sha256:f59abe656b692d901e184be3445e084786602108599d2a51d229c0f5a48c71bf
+#16 sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17 1.05MB / 3.85MB 1.2s
+#16 sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17 2.10MB / 3.85MB 2.1s
+#16 sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17 3.15MB / 3.85MB 3.6s
+#16 sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17 3.85MB / 3.85MB 4.4s
+#16 sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17 3.85MB / 3.85MB 4.7s done
+#16 extracting sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17
+#16 extracting sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17 0.3s done
+#16 extracting sha256:881fc932939efef04ca120ad44bbd2c0917851eb247aa4995428afb1e80ede17 0.3s done
+#16 DONE 5.4s
+
+#17 [api stage-1 2/3] RUN apk add --no-cache ca-certificates wget && adduser -D -u 10001 app
+#17 4.893 (1/5) Installing ca-certificates (20261020-r0)
+#17 5.024 (2/5) Installing libunistring (1.4.2-r0)
+#17 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:177fffbd7f516ce769745a38154a76ab1cc31d9f87f1c4ea5e448f6548fea4c4 443B / 443B 0.5s done
+#14 sha256:e868d1035e5072f0e369d44b840e8532b9500f7cc74aa8c908ccd2e1b9898eb3 1.26MB / 1.26MB 4.4s done
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 1.05MB / 56.25MB 10.1s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:c050182f513fb753ca709ec66cab639c3c37a5356e5d597ca81bcddcf2aaee91 126B / 126B 0.5s done
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 4.19MB / 71.22MB 9.0s
+#15 sha256:1d88fd0fb393f123f061aada1719163fe157015d4f15ab0a77954f6b499de6de 244.47kB / 244.47kB 2.7s done
+#15 extracting sha256:1d88fd0fb393f123f061aada1719163fe157015d4f15ab0a77954f6b499de6de 0.2s done
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 ...
+
+#17 [api stage-1 2/3] RUN apk add --no-cache ca-certificates wget && adduser -D -u 10001 app
+#17 5.711 (3/5) Installing libidn2 (2.3.8-r0)
+#17 5.879 (4/5) Installing pcre2 (10.49-r0)
+#17 6.506 (5/5) Installing wget (1.25.0-r3)
+#17 6.680 Executing busybox-1.37.0-r31.trigger
+#17 6.687 Executing ca-certificates-20261020-r0.trigger
+#17 6.760 OK: 11.4 MiB in 21 packages
+#17 DONE 8.2s
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 4.19MB / 56.25MB 15.2s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 7.34MB / 56.25MB 18.3s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 14.68MB / 71.22MB 19.2s
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 10.49MB / 56.25MB 22.7s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 13.63MB / 56.25MB 27.2s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 24.12MB / 71.22MB 27.0s
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 15.73MB / 56.25MB 32.3s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 32.51MB / 71.22MB 34.8s
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 18.87MB / 56.25MB 36.3s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 22.02MB / 56.25MB 39.8s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 25.17MB / 56.25MB 42.8s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 38.80MB / 71.22MB 42.6s
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 28.31MB / 56.25MB 46.1s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 31.46MB / 56.25MB 49.5s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 45.09MB / 71.22MB 50.4s
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 34.60MB / 56.25MB 52.4s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 37.75MB / 56.25MB 57.0s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 53.48MB / 71.22MB 58.2s
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 39.85MB / 56.25MB 62.1s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 41.94MB / 56.25MB 67.2s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 61.87MB / 71.22MB 66.0s
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 45.09MB / 56.25MB 72.2s
+#14 ...
+
+#15 [api build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 71.22MB / 71.22MB 72.9s done
+#15 extracting sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f
+#15 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 48.23MB / 56.25MB 75.8s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 51.38MB / 56.25MB 77.6s
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 54.53MB / 56.25MB 79.2s
+#14 ...
+
+#15 [asp-mock build 1/6] FROM docker.io/library/golang:1.27.4-alpine3.24@sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf
+#15 extracting sha256:83d129a974dd319fef9f5f496bf3a04194c14ba0fbf95635c2d5577185dd0b2f 5.7s done
+#15 extracting sha256:c050182f513fb753ca709ec66cab639c3c37a5356e5d597ca81bcddcf2aaee91 0.0s done
+#15 extracting sha256:4f4fb700ef54461cfa02571ae0db9a0dc1e0cdb5577484a6d75e68dc38e8acc1 0.0s done
+#15 DONE 80.4s
+
+#18 [asp-mock build 2/6] WORKDIR /src
+#18 DONE 0.0s
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 56.25MB / 56.25MB 79.8s done
+#14 ...
+
+#19 [api build 3/6] COPY go.mod go.sum ./
+#19 DONE 0.0s
+
+#20 [asp-mock build 3/6] COPY go.mod go.sum ./
+#20 DONE 0.1s
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 extracting sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1
+#14 extracting sha256:87aaee1f6667374a3b8e33a252954e01b1fac9749bb0c570022533b9120d13a1 1.6s done
+#14 DONE 82.2s
+
+#21 [asp-mock build 4/6] RUN go mod download
+#21 ...
+
+#14 [web deps 1/4] FROM docker.io/library/node:22.23.5-alpine3.24@sha256:1314fb30ec37592d5845e5a160d522c0e680972aa534549940b8d73bde88481a
+#14 extracting sha256:e868d1035e5072f0e369d44b840e8532b9500f7cc74aa8c908ccd2e1b9898eb3 0.1s done
+#14 extracting sha256:177fffbd7f516ce769745a38154a76ab1cc31d9f87f1c4ea5e448f6548fea4c4 0.0s done
+#14 DONE 82.2s
+
+#22 [web deps 2/4] WORKDIR /app
+#22 DONE 0.2s
+
+#23 [api build 4/6] RUN go mod download
+#23 ...
+
+#24 [web deps 3/4] COPY package.json package-lock.json ./
+#24 DONE 0.0s
+
+#25 [web deps 4/4] RUN npm ci --no-audit --no-fund
+#25 ...
+
+#21 [asp-mock build 4/6] RUN go mod download
+#21 DONE 9.6s
+
+#26 [asp-mock build 5/6] COPY . .
+#26 DONE 0.1s
+
+#27 [asp-mock build 6/6] RUN CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/asp-mock .
+#27 DONE 13.2s
+
+#25 [web deps 4/4] RUN npm ci --no-audit --no-fund
+#25 ...
+
+#28 [asp-mock stage-1 3/3] COPY --from=build /out/asp-mock /usr/local/bin/asp-mock
+#28 DONE 0.1s
+
+#29 [asp-mock] exporting to image
+#29 exporting layers
+#29 exporting layers 0.5s done
+#29 exporting manifest sha256:8c138ddc1b2ef4c61d90d347202ef842a9d49cb296f519470a6ea3f42779ee3e 0.0s done
+#29 exporting config sha256:6ea4f4cdafff0f133eb7f47065c16abc7a3b13225be9e190b943f0f5282202b4 0.0s done
+#29 exporting attestation manifest sha256:9a5e1bc925d87f462a273c60f8eb0e9ab2d02da41e5175f35eeee050f5731224 0.0s done
+#29 exporting manifest list sha256:9ae8b394418dc333fffd9f02a1a929a6cb2259aa28a65d6c84dc5ea77cb911fe 0.0s done
+#29 naming to docker.io/library/invoicely-lite-asp-mock:latest done
+#29 unpacking to docker.io/library/invoicely-lite-asp-mock:latest
+#29 unpacking to docker.io/library/invoicely-lite-asp-mock:latest 0.4s done
+#29 DONE 1.0s
+
+#30 [asp-mock] resolving provenance for metadata file
+#30 DONE 0.0s
+
+#25 [web deps 4/4] RUN npm ci --no-audit --no-fund
+#25 ...
+
+#23 [api build 4/6] RUN go mod download
+#23 DONE 51.1s
+
+#31 [api build 5/6] COPY . .
+#31 DONE 0.1s
+
+#25 [web deps 4/4] RUN npm ci --no-audit --no-fund
+#25 ...
+
+#32 [api build 6/6] RUN CGO_ENABLED=0 go build -trimpath -ldflags="-s -w" -o /out/api .
+#32 DONE 19.5s
+
+#25 [web deps 4/4] RUN npm ci --no-audit --no-fund
+#25 ...
+
+#33 [api stage-1 3/3] COPY --from=build /out/api /usr/local/bin/api
+#33 DONE 0.0s
+
+#34 [api] exporting to image
+#34 exporting layers
+#34 exporting layers 0.6s done
+#34 exporting manifest sha256:8e1fdc39d7db3e5535bf5f55ee5051527a6092d34d6a8ac8ac7049d273c31ea6 0.0s done
+#34 exporting config sha256:b1deb3633e774de5eea766318e849078b513d542177faee47a2703527d75a55e 0.0s done
+#34 exporting attestation manifest sha256:6ac8d854babcabdb41f755131fa6bf564b5f82504f531acb26e5441785835942 0.0s done
+#34 exporting manifest list sha256:f5f2ef5de267792dc32cf9af1b5f0c5fbfb5f1c6d43330dcb02ad5567d34a076 0.0s done
+#34 naming to docker.io/library/invoicely-lite-api:latest done
+#34 unpacking to docker.io/library/invoicely-lite-api:latest 0.1s done
+#34 DONE 0.8s
+
+#35 [api] resolving provenance for metadata file
+#35 DONE 0.0s
+
+#25 [web deps 4/4] RUN npm ci --no-audit --no-fund
+#25 81.64 
+#25 81.64 added 29 packages in 1m
+#25 81.64 npm notice
+#25 81.64 npm notice New major version of npm available! 10.9.9 -> 12.2.2
+#25 81.64 npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.2
+#25 81.64 npm notice To update run: npm install -g npm@12.2.2
+#25 81.64 npm notice
+#25 DONE 81.8s
+
+#36 [web build 3/5] COPY --from=deps /app/node_modules ./node_modules
+#36 DONE 3.4s
+
+#37 [web build 4/5] COPY . .
+#37 DONE 0.1s
+
+#38 [web build 5/5] RUN npm run build
+#38 0.583 
+#38 0.583 > invoicely-lite-web@1.0.0 build
+#38 0.583 > next build
+#38 0.583 
+#38 1.603    ▲ Next.js 15.5.29
+#38 1.604 
+#38 1.639    Creating an optimized production build ...
+#38 11.48  ✓ Compiled successfully in 7.1s
+#38 11.48    Skipping linting
+#38 11.48    Checking validity of types ...
+#38 14.33    Collecting page data ...
+#38 16.14    Generating static pages (0/2) ...
+#38 16.72  ✓ Generating static pages (2/2)
+#38 17.84    Finalizing page optimization ...
+#38 17.84    Collecting build traces ...
+#38 38.43 
+#38 38.44 Route (app)                                 Size  First Load JS
+#38 38.44 ┌ ƒ /                                      130 B         103 kB
+#38 38.44 ├ ƒ /_not-found                            130 B         103 kB
+#38 38.44 ├ ƒ /api/[...path]                         130 B         103 kB
+#38 38.44 ├ ƒ /imports                               353 B         106 kB
+#38 38.44 ├ ƒ /imports/[id]                          748 B         107 kB
+#38 38.44 ├ ƒ /invoices/[id]                         748 B         107 kB
+#38 38.44 └ ƒ /upload                              1.43 kB         104 kB
+#38 38.44 + First Load JS shared by all             103 kB
+#38 38.44   ├ chunks/255-73938ce8a8eac1ad.js       46.6 kB
+#38 38.44   ├ chunks/4bd1b696-c023c6e3521b1417.js  54.2 kB
+#38 38.44   └ other shared chunks (total)          1.92 kB
+#38 38.44 
+#38 38.44 
+#38 38.44 ƒ  (Dynamic)  server-rendered on demand
+#38 38.44 
+#38 38.49 npm notice
+#38 38.49 npm notice New major version of npm available! 10.9.9 -> 12.2.2
+#38 38.49 npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.2
+#38 38.49 npm notice To update run: npm install -g npm@12.2.2
+#38 38.49 npm notice
+#38 DONE 38.6s
+
+#39 [web runner 3/4] COPY --from=build --chown=node:node /app/.next/standalone ./
+#39 DONE 0.5s
+
+#40 [web runner 4/4] COPY --from=build --chown=node:node /app/.next/static ./.next/static
+#40 DONE 0.1s
+
+#41 [web] exporting to image
+#41 exporting layers
+#41 exporting layers 1.7s done
+#41 exporting manifest sha256:758d70c78bfc814131e3d1ee69d6b40e7bb4b431a91c48a568d5c7d0c713204c 0.0s done
+#41 exporting config sha256:15aea16565ec92eb4b8d4085b20cc5b9b2be6a217d71a746403e12b7143e7c91 0.0s done
+#41 exporting attestation manifest sha256:3835c388e5e3effbea6985aa12cd83f69cb5ef9b71dc242bd5b4695e9f86a7ca 0.0s done
+#41 exporting manifest list sha256:e57e609b4991c683bb3601bcc98ba009d784a9a4825f5b5b79a60be98b45dc2f 0.0s done
+#41 naming to docker.io/library/invoicely-lite-web:latest done
+#41 unpacking to docker.io/library/invoicely-lite-web:latest
+#41 unpacking to docker.io/library/invoicely-lite-web:latest 2.3s done
+#41 DONE 4.1s
+
+#42 [web] resolving provenance for metadata file
+#42 DONE 0.0s
+ Image invoicely-lite-asp-mock Built 
+ Image invoicely-lite-api Built 
+ Image invoicely-lite-web Built 
+ Network invoicely-lite_default Creating 
+ Volume invoicely-lite_pgdata Creating 
+ Volume invoicely-lite_pgdata Creating 
+ Network invoicely-lite_default Creating 
+ Volume invoicely-lite_pgdata Created 
+ Volume invoicely-lite_pgdata Created 
+ Network invoicely-lite_default Created 
+ Network invoicely-lite_default Created 
+ Container invoicely-lite-postgres-1 Creating 
+ Container invoicely-lite-asp-mock-1 Creating 
+ Container invoicely-lite-asp-mock-1 Created 
+ Container invoicely-lite-postgres-1 Created 
+ Container invoicely-lite-api-1 Creating 
+ Container invoicely-lite-api-1 Created 
+ Container invoicely-lite-web-1 Creating 
+ Container invoicely-lite-web-1 Created 
+ Container invoicely-lite-asp-mock-1 Starting 
+ Container invoicely-lite-postgres-1 Starting 
+ Container invoicely-lite-asp-mock-1 Started 
+ Container invoicely-lite-asp-mock-1 Waiting 
+ Container invoicely-lite-postgres-1 Started 
+ Container invoicely-lite-postgres-1 Waiting 
+ Container invoicely-lite-asp-mock-1 Healthy 
+ Container invoicely-lite-postgres-1 Healthy 
+ Container invoicely-lite-api-1 Starting 
+ Container invoicely-lite-api-1 Started 
+ Container invoicely-lite-web-1 Starting 
+ Container invoicely-lite-web-1 Started 

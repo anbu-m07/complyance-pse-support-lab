@@ -1,0 +1,1 @@
+Lab replay completed on 14 November 2026 UTC. See SUBMISSION.md and evidence/. GitHub publishing and form submission still require the candidate's account.\n

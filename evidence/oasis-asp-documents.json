@@ -1,0 +1,66 @@
+[
+  {
+    "messageId": "5ddc234e-9d58-4105-b60f-8cbdd67b58fe",
+    "invoiceNumber": "OBS-2611-002",
+    "sender": "0235:1003182746",
+    "receiver": "0235:1001748392",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:26:09.829854077Z"
+  },
+  {
+    "messageId": "4fec1f9a-027f-48e8-bd1e-af0617629031",
+    "invoiceNumber": "OBS-2611-004",
+    "sender": "0235:1003182746",
+    "receiver": "0235:1001304958",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:26:09.830666807Z"
+  },
+  {
+    "messageId": "4c8b577c-2046-47c4-ba1e-cc2c5016f8e9",
+    "invoiceNumber": "OBS-2611-003",
+    "sender": "0235:1003182746",
+    "receiver": "0235:1001859403",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:26:09.83157035Z"
+  },
+  {
+    "messageId": "7aec702d-8175-411f-89b5-2d7c9c7f8a6c",
+    "invoiceNumber": "OBS-2611-001",
+    "sender": "0235:1003182746",
+    "receiver": "0235:1001415069",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:26:09.831831365Z"
+  },
+  {
+    "messageId": "6961cad1-d449-426b-a3ab-44b6bc40ad54",
+    "invoiceNumber": "OBS-2611-005",
+    "sender": "0235:1003182746",
+    "receiver": "0235:1001415069",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:26:09.835108427Z"
+  },
+  {
+    "messageId": "43762c86-ebe1-4bb1-a997-e7fb679af0e7",
+    "invoiceNumber": "OBS-2611-006",
+    "sender": "0235:1003182746",
+    "receiver": "0235:1001526170",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:26:09.836397992Z"
+  },
+  {
+    "messageId": "b1b523d8-1899-455a-8714-7fface5d22eb",
+    "invoiceNumber": "OBS-2611-007",
+    "sender": "0235:1003182746",
+    "receiver": "0235:1001748392",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:26:09.837101304Z"
+  },
+  {
+    "messageId": "cfcff8de-d316-409d-aca8-7be600ad544d",
+    "invoiceNumber": "OBS-2611-008",
+    "sender": "0235:1003182746",
+    "receiver": "0235:1001859403",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:26:09.837854362Z"
+  }
+]

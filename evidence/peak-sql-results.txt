@@ -1,0 +1,53 @@
+-- Query:
+SELECT s.name, v.status, count(*) FROM invoices v JOIN sellers s ON s.id=v.seller_id WHERE v.import_id IN (SELECT id FROM imports WHERE filename LIKE '%morning-%') GROUP BY s.name,v.status ORDER BY s.name,v.status; SELECT i.id,i.filename,i.status, count(v.id) FILTER (WHERE v.status='Validated') AS validated, count(v.id) FILTER (WHERE v.status='Accepted') AS accepted FROM imports i LEFT JOIN invoices v ON v.import_id=i.id WHERE i.filename LIKE 'mbh-morning-%' GROUP BY i.id ORDER BY i.created_at LIMIT 25;
+
+-- Output:
+            name            |  status   | count 
+----------------------------+-----------+-------
+ Desert Rose Trading LLC    | Accepted  |   152
+ Desert Rose Trading LLC    | Parsed    |    12
+ Desert Rose Trading LLC    | Submitted |   169
+ Desert Rose Trading LLC    | Validated |     9
+ Marina Bay Hospitality LLC | Accepted  |   150
+ Marina Bay Hospitality LLC | Parsed    |    10
+ Marina Bay Hospitality LLC | Submitted |   174
+ Marina Bay Hospitality LLC | Validated |     8
+ Palm Coast Electronics LLC | Accepted  |   148
+ Palm Coast Electronics LLC | Parsed    |     6
+ Palm Coast Electronics LLC | Submitted |   170
+ Palm Coast Electronics LLC | Validated |    12
+ Zayed Port Logistics LLC   | Accepted  |   148
+ Zayed Port Logistics LLC   | Parsed    |     8
+ Zayed Port Logistics LLC   | Submitted |   170
+ Zayed Port Logistics LLC   | Validated |    10
+(16 rows)
+
+                  id                  |      filename       |   status   | validated | accepted 
+--------------------------------------+---------------------+------------+-----------+----------
+ 18b0c4d4-bce7-4c45-9028-8d42792c2f85 | mbh-morning-2.xlsx  | Completed  |         0 |        6
+ 23a098b1-d3b0-4817-87f2-0b4a45a7e9e6 | mbh-morning-6.xlsx  | Completed  |         0 |        2
+ 5f924410-162a-43f3-9b35-5add289449f6 | mbh-morning-10.xlsx | Completed  |         0 |        5
+ f58a69ff-9cb0-4366-9019-4f4ae4dd076a | mbh-morning-14.xlsx | Completed  |         0 |        1
+ 67f4032f-6768-43de-ab8c-37df3ead218d | mbh-morning-18.xlsx | Completed  |         0 |        4
+ 851934d6-dabe-4a79-be4a-3cc1fbd11b0f | mbh-morning-22.xlsx | Completed  |         0 |        1
+ 610b5c29-c402-4ac8-9f87-3a235596af86 | mbh-morning-26.xlsx | Completed  |         0 |        4
+ 6af28679-9926-4821-9c7f-e5be63852850 | mbh-morning-30.xlsx | Completed  |         0 |        1
+ 0f97c2a8-c576-47ca-890d-fae5798cda51 | mbh-morning-34.xlsx | Completed  |         0 |        4
+ 92f82a28-f0c6-484d-8fc4-fd74e943a2d3 | mbh-morning-38.xlsx | Completed  |         0 |        1
+ 56fbb285-c8d8-46cc-bfef-efb2dbb63908 | mbh-morning-42.xlsx | Completed  |         0 |        3
+ 4d7e496d-de22-4df0-b091-e27487f9fad8 | mbh-morning-46.xlsx | Completed  |         0 |        2
+ fb66ddbe-bf49-4722-8f7c-42481147e808 | mbh-morning-50.xlsx | Completed  |         0 |        3
+ deffdafc-722e-4d7a-a28a-d0fa2f1290c5 | mbh-morning-54.xlsx | Completed  |         0 |        2
+ 807bfac2-6d47-41cc-9594-24e4504ed0f5 | mbh-morning-58.xlsx | Completed  |         0 |        3
+ e602f44b-6848-48bf-a823-84eae84b4697 | mbh-morning-62.xlsx | Completed  |         0 |        1
+ e689d326-0a09-4ab4-94e8-61564d7aed7c | mbh-morning-66.xlsx | Completed  |         0 |        4
+ ee5eb03e-561d-4fe0-9c2d-71ef61164324 | mbh-morning-70.xlsx | Processing |         4 |        0
+ 9e5c106c-d79e-4368-a72b-233eeeb05795 | mbh-morning-74.xlsx | Processing |         0 |        0
+ 878928fc-24bc-449b-b5aa-29d5992a658c | mbh-morning-78.xlsx | Completed  |         0 |        6
+ f5557054-be78-4914-b8fa-d11e8cbe422a | mbh-morning-82.xlsx | Completed  |         0 |        3
+ 6d36d277-27c0-4f1c-825b-0fa30bc0496f | mbh-morning-86.xlsx | Completed  |         0 |        3
+ a0275251-25f3-42dc-b2c2-d8d75d2ed29a | mbh-morning-90.xlsx | Completed  |         0 |        2
+ 001d57c1-44b5-408d-829b-648b18841972 | mbh-morning-94.xlsx | Completed  |         0 |        3
+ da13f9fc-0463-4f3a-99a0-330bb579f5c7 | mbh-morning-98.xlsx | Completed  |         0 |        2
+(25 rows)
+

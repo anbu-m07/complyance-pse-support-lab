@@ -1,0 +1,71 @@
+{
+  "increase(container_oom_events_total{name=~\".*api.*\"}[5m])": [
+    {
+      "metric": {
+        "container_label_com_docker_compose_project": "invoicely-lite",
+        "container_label_com_docker_compose_service": "api",
+        "id": "/docker/f132f74d4e0d02b1b8dce54fc0fc1cd4c61dba1f27e3a2a6f55e7ead5eabd20d",
+        "image": "invoicely-lite-api",
+        "instance": "cadvisor:8080",
+        "job": "cadvisor",
+        "name": "invoicely-lite-api-1"
+      },
+      "value": [
+        1794641830.943,
+        "0"
+      ]
+    }
+  ],
+  "container_memory_working_set_bytes{name=~\".*api.*\"}": [
+    {
+      "metric": {
+        "__name__": "container_memory_working_set_bytes",
+        "container_label_com_docker_compose_project": "invoicely-lite",
+        "container_label_com_docker_compose_service": "api",
+        "id": "/docker/f132f74d4e0d02b1b8dce54fc0fc1cd4c61dba1f27e3a2a6f55e7ead5eabd20d",
+        "image": "invoicely-lite-api",
+        "instance": "cadvisor:8080",
+        "job": "cadvisor",
+        "name": "invoicely-lite-api-1"
+      },
+      "value": [
+        1794641830.946,
+        "126709760"
+      ]
+    }
+  ],
+  "invoicely_submission_queue_depth": [
+    {
+      "metric": {
+        "__name__": "invoicely_submission_queue_depth",
+        "instance": "api:8080",
+        "job": "api"
+      },
+      "value": [
+        1794641830.947,
+        "0"
+      ]
+    }
+  ],
+  "sum by (code) (invoicely_asp_responses_total)": [
+    {
+      "metric": {
+        "code": "200"
+      },
+      "value": [
+        1794641830.949,
+        "215"
+      ]
+    },
+    {
+      "metric": {
+        "code": "429"
+      },
+      "value": [
+        1794641830.949,
+        "235"
+      ]
+    }
+  ],
+  "sum(invoicely_api_restarts_total)": []
+}

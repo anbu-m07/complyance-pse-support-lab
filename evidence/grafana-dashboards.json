@@ -1,0 +1,36 @@
+[
+  {
+    "id": 311641567510528,
+    "uid": "eg497hniqlukgb",
+    "orgId": 1,
+    "title": "Invoicely",
+    "uri": "db/invoicely",
+    "url": "/dashboards/f/eg497hniqlukgb/invoicely",
+    "slug": "",
+    "type": "dash-folder",
+    "tags": [],
+    "isStarred": false,
+    "sortMeta": 0,
+    "isDeleted": false
+  },
+  {
+    "id": 311642591744000,
+    "uid": "invoicely-overview",
+    "orgId": 1,
+    "title": "Invoicely Lite – Overview",
+    "uri": "db/invoicely-lite-e28093-overview",
+    "url": "/d/invoicely-overview/invoicely-lite-e28093-overview",
+    "slug": "",
+    "type": "dash-db",
+    "tags": [
+      "invoicely"
+    ],
+    "isStarred": false,
+    "folderId": 311641567510528,
+    "folderUid": "eg497hniqlukgb",
+    "folderTitle": "Invoicely",
+    "folderUrl": "/dashboards/f/eg497hniqlukgb/invoicely",
+    "sortMeta": 0,
+    "isDeleted": false
+  }
+]

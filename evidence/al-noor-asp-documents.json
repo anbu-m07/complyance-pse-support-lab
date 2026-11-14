@@ -1,0 +1,68 @@
+[
+  {
+    "messageId": "e8d521eb-74ae-4f5d-9d05-cda29a880c4b",
+    "invoiceNumber": "ANF-2611-0044",
+    "sender": "0235:1005362841",
+    "receiver": "0235:1001526170",
+    "status": "rejected",
+    "errors": [
+      {
+        "rule": "BR-CO-15",
+        "message": "Invoice total amount with VAT (IBT-112) must equal Invoice total amount without VAT (IBT-109) + Invoice total VAT amount (IBT-110). Got 11817.57, expected 11817.59."
+      }
+    ],
+    "receivedAt": "2026-11-14T07:20:51.15180066Z"
+  },
+  {
+    "messageId": "cfc5bba3-7c51-430f-a333-4424a1fb9baf",
+    "invoiceNumber": "ANF-2611-0043",
+    "sender": "0235:1005362841",
+    "receiver": "0235:1001415069",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:20:51.152395136Z"
+  },
+  {
+    "messageId": "41285ae7-3f07-446f-ab52-637f61dd22ec",
+    "invoiceNumber": "ANF-2611-0042",
+    "sender": "0235:1005362841",
+    "receiver": "0235:1009728456",
+    "status": "rejected",
+    "errors": [
+      {
+        "rule": "BR-CO-15",
+        "message": "Invoice total amount with VAT (IBT-112) must equal Invoice total amount without VAT (IBT-109) + Invoice total VAT amount (IBT-110). Got 15022.42, expected 15022.43."
+      }
+    ],
+    "receivedAt": "2026-11-14T07:20:51.152789664Z"
+  },
+  {
+    "messageId": "d1b47976-c617-4650-90f6-aba1b89549d3",
+    "invoiceNumber": "ANF-2611-0041",
+    "sender": "0235:1005362841",
+    "receiver": "0235:1001526170",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:20:51.152959446Z"
+  },
+  {
+    "messageId": "c4c12672-13f9-4351-b872-d5d0742b813b",
+    "invoiceNumber": "ANF-2611-0045",
+    "sender": "0235:1005362841",
+    "receiver": "0235:1001304958",
+    "status": "accepted",
+    "receivedAt": "2026-11-14T07:20:51.15773029Z"
+  },
+  {
+    "messageId": "815bdd93-dfa3-482f-976e-fd09dd6e004b",
+    "invoiceNumber": "ANF-2611-0046",
+    "sender": "0235:1005362841",
+    "receiver": "0235:1009728456",
+    "status": "rejected",
+    "errors": [
+      {
+        "rule": "BR-CO-15",
+        "message": "Invoice total amount with VAT (IBT-112) must equal Invoice total amount without VAT (IBT-109) + Invoice total VAT amount (IBT-110). Got 5610.99, expected 5611.00."
+      }
+    ],
+    "receivedAt": "2026-11-14T07:20:51.158330627Z"
+  }
+]
